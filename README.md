@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 updated
-update at main branch for conflict
+update at rebase practice branch for conflict
